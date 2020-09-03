@@ -114,6 +114,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-runtime-configuration"
+    }
+  },
+  "defaultProject": "angular-runtime-configuration",
+  "cli": {
+    "analytics": false
+  }
 }
